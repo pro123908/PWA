@@ -4,6 +4,8 @@ var closeCreatePostModalButton = document.querySelector(
   "#close-create-post-modal-btn"
 );
 
+// Delete it
+
 function openCreatePostModal() {
   createPostArea.style.display = "block";
 
